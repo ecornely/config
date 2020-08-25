@@ -1,0 +1,4 @@
+spring.application.name=app
+
+logging.level.be=TRACE
+logging.level.org.springframework=WARN
