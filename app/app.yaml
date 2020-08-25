@@ -1,4 +1,10 @@
-spring.application.name=app
+spring:
+  application:
+    name: app
 
-logging.level.be=TRACE
-logging.level.org.springframework=WARN
+logging: 
+  level: 
+    be: TRACE
+    org.springframework: WARN
+
+be.ecornely.message: Hello from github file
